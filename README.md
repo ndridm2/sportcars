@@ -2,6 +2,7 @@
 
 ### Description
 Dicoding submission : Belajar membuat aplikasi android untuk pemula
+IDCamp 2024
 
 ## Project Overview
 1. Activity
