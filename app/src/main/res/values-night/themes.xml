@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Sportcars" parent="Theme.Material3.DayNight">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <!-- Primary brand color. -->
+        <item name="colorPrimary" type="color">@color/gray_light</item>
+        <item name="colorPrimaryVariant" type="color">@color/gray</item>
+        <item name="colorOnPrimary" type="color">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary" type="color">@color/orange_light</item>
+        <item name="colorSecondaryVariant" type="color">@color/orange_light</item>
+        <item name="colorOnSecondary" type="color">@color/black</item>
+    </style>
+
+    <style name="ThemeOverlay.Sportcars.FullscreenContainer" parent="">
+        <item name="fullscreenBackgroundColor">@color/light_blue_900</item>
+        <item name="fullscreenTextColor">@color/light_blue_A400</item>
+    </style>
+
+</resources>

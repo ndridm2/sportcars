@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity">
+
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+           <FrameLayout
+               android:layout_width="match_parent"
+               android:layout_height="250dp">
+               <ImageView
+                   android:id="@+id/imageView"
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:adjustViewBounds="true"
+                   android:contentDescription="@string/cars_name"
+                   android:padding="2dp"
+                   android:scaleType="center"
+                   tools:ignore="ImageContrastCheck"
+                   tools:srcCompat="@tools:sample/avatars" />
+
+               <ImageButton
+                   android:id="@+id/btn_back"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginStart="16dp"
+                   android:layout_marginTop="16dp"
+                   android:contentDescription="@string/cars_name"
+                   android:src="@drawable/baseline_arrow_back"
+                   android:background="@null"
+                   tools:ignore="TouchTargetSizeCheck,ImageContrastCheck,DuplicateSpeakableTextCheck" />
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_gravity="bottom"
+                   android:layout_marginStart="16dp"
+                   android:layout_marginBottom="16dp"
+                   android:background="#4D000000"
+                   android:drawablePadding="4dp"
+                   android:gravity="center_vertical"
+                   android:padding="8dp"
+                   android:text="@string/dummy_photos"
+                   android:textColor="@color/white"
+                   app:drawableStartCompat="@drawable/baseline_collections"
+                   tools:ignore="TextContrastCheck" />
+           </FrameLayout>
+
+            <TextView
+                android:id="@+id/tvName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginTop="14dp"
+                android:layout_marginBottom="8dp"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                android:text="@string/cars_name" />
+
+            <TextView
+                android:id="@+id/tvRating"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginBottom="16dp"
+                android:text="@string/rating"
+                android:textColor="#EF6C00"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                tools:ignore="TextContrastCheck" />
+
+            <TextView
+                android:id="@+id/tvDescription"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginBottom="16dp"
+                android:lineSpacingMultiplier="1"
+                android:text="@string/description" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginBottom="8dp"
+                android:textStyle="bold"
+                android:text="@string/specification" />
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginBottom="16dp">
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="14sp"
+                        android:layout_marginEnd="16dp"
+                        android:text="@string/manufacturer" />
+
+                    <TextView
+                        android:id="@+id/tv_manufacturer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="14sp"
+                        android:layout_weight="1"
+                        android:text="@string/manufacturer" />
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="14sp"
+                        android:layout_marginEnd="16dp"
+                        android:text="@string/production" />
+
+                    <TextView
+                        android:id="@+id/tv_production"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="14sp"
+                        android:layout_weight="1"
+                        android:text="@string/production" />
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="14sp"
+                        android:layout_marginEnd="16dp"
+                        android:text="@string/engine" />
+
+                    <TextView
+                        android:id="@+id/tv_engine"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="14sp"
+                        android:layout_weight="1"
+                        android:text="@string/engine" />
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="14sp"
+                        android:layout_marginEnd="16dp"
+                        android:text="@string/asemmbly" />
+
+                    <TextView
+                        android:id="@+id/tv_assembly"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="14sp"
+                        android:layout_weight="1"
+                        android:text="@string/asemmbly" />
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="14sp"
+                        android:layout_marginEnd="16dp"
+                        android:text="@string/desaigner" />
+
+                    <TextView
+                        android:id="@+id/tv_designer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="14sp"
+                        android:layout_weight="1"
+                        android:text="@string/desaigner" />
+                </TableRow>
+            </TableLayout>
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

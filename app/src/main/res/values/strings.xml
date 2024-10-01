@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">Sports Car</string>
+
+    <string name="cars_name">Cars Name</string>
+    <string name="description">Description</string>
+    <string name="rating">⭐️⭐️⭐️</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="switch_icon">switch_icon</string>
+    <string name="profile">Profile</string>
+    <string name="mode">Mode</string>
+    <string name="dummy_photos">6 photos</string>
+    <string name="specification">Specification</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="production">Production</string>
+    <string name="engine">Engine</string>
+    <string name="asemmbly">Asemmbly</string>
+    <string name="desaigner">Desaigner</string>
+    <string name="name_profile">Andri Darmuli</string>
+    <string name="email_profile">andri.darmuli26@gmail.com</string>
+    <string name="light_mode">Light</string>
+    <string name="dark_mode">Dark</string>
+
+    <string-array name="data_name">
+        <item>Ferrari SF90 Stradale</item>
+        <item>Lamborghini Revuelto</item>
+        <item>Bugatti Chiron</item>
+        <item>McLaren 720S</item>
+        <item>Maserati MC20</item>
+        <item>Chevrolet Corvette Z06</item>
+        <item>Porsche Carrera GT</item>
+        <item>Ford Shelby Mustang GT500</item>
+        <item>Koenigsegg Jesko</item>
+        <item>Rimac Nevera</item>
+        <item>Pininfarina Battista</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>The Ferrari SF90 Stradale (Type F173) is a mid-engine PHEV (plug-in hybrid electric vehicle) sports car produced by the Italian automobile manufacturer Ferrari. The car shares its name with the SF90 Formula One car with 90 standing for the 90th anniversary of the Scuderia Ferrari racing team and Stradale, an Italian word for made for the road. The car has a 7.9 kWh lithium-ion battery for regenerative braking, giving the car 26 km (16 mi) of electric range. The car comes with four driving modes depending on road conditions. The modes are changed by the eManettino knob present on the steering wheel. The eDrive mode runs the car only on the electric motors. The Hybrid mode runs the car on both the internal combustion engine and the electric motors and is the cars default mode. In this mode, the cars onboard computer (called control logic) also turns off the engine if the conditions are ideal in order to save. The engine is an evolution of the unit found in the 488 Pista and the F8 Tributo models. The engines capacity is now 4.0 L (3,990 cc) by increasing each cylinder bore to 88 mm (3.46 in). The intake and exhaust of the engine have been completely modified. The cylinder heads of the engine are now narrower and the all-new central fuel injectors run at a pressure of 35 MPa (5,100 psi). The assembly for the turbochargers is lower than that of the exhaust system and the engine sits 50 mm (2.0 in) lower in the chassis than the other mid-engine V8 models in order to maintain a lower centre of gravity. The engine utilises a smaller flywheel and an inconel exhaust manifold. The SF90 Stradale is equipped with three electric motors, adding a combined output of 162 kW (220 PS; 217 hp) to a twin-turbocharged V8 engine rated at a power output of 735 kW (1,000 PS; 986 hp) at 7,500 rpm.</item>
+        <item>The Lamborghini Revuelto is a mid–engine plug–in hybrid sports car produced by the Italian automobile manufacturer Lamborghini. It was officially unveiled on March 29, 2023 as a successor to the Aventador. The Revueltos namesake is a Spanish fighting bull that fought in the arena of Barcelona in the 1880s. As of July 2023, the Revuelto has gone into full production, with the first units having been delivered in the last quarter of 2023. The Revuelto was unveiled in an online event on March 29, 2023. The car is the first of the brand to adopt a plug–in hybrid propulsion system. While models like the Sián FKP 37 and Countach LPI 800–4 had adopted a mild form of a hybrid propulsion system, mainly to improve low speed drivability, the Revuelto is the first Lamborghini to adopt a true form of a hybrid drivetrain. At the front, the Revuelto includes a set of brand new Y-shaped day-time running LED lights. At the front, the Revuelto includes a set of brand new Y-shaped day-time running LED lights with the main headlights located at the top corners of the running lights. The car also features Lamborghinis ALA (Aerodinamica Lamborghini Attiva) system, which is said to be 80% lighter than regular sports car hydraulic systems having redesigned vents underneath the headlights and behind the scissor doors. The Revuelto has its exhaust tips positioned between the taillights, with the rear spoiler being shaped around them. Another feature setting the Revuelto apart from its predecessors is the completely exposed engine bay, similar to the Bugatti Veyron and Chiron. At the rear, the Revuelto features an active aero spoiler which produces more downforce than its predecessor. The tail-lights feature the same Y-shaped design as the headlights.</item>
+        <item>The Bugatti Chiron is a mid-engine two-seater sports car designed and developed in Germany by Bugatti Engineering GmbH and manufactured in Molsheim, France, by French automobile manufacturer Bugatti Automobiles S.A.S. The successor to the Bugatti Veyron, the Chiron was first shown at the Geneva Motor Show on 1 March 2016. The cars design was initially previewed with the Bugatti Vision Gran Turismo concept car unveiled at the 2015 Frankfurt Auto Show. The car is named after the Monegasque driver Louis Chiron. The car shares the name with the 1999 Bugatti 18/3 Chiron concept car. The main carry over component from the Veyron is the 7,993 cc (8.0 L; 487.8 cu in) quad-turbocharged W16 engine, though it is heavily updated. The engine in the Chiron has a peak power output of 1,103 kW (1,479 hp; 1,500 PS) at 6,700 rpm and 1,600 N m (1,180 lb ft) of torque starting from 2,000 to 6,000 rpm. Introduced in February 2019, the 110 Ans Bugatti is a limited edition variant of the Chiron Sport developed to celebrate 110 years of Bugatti. The car features carbon fibre bodywork finished in matte Steel Blue exterior colour. The body is also accented with Steel Blue bare carbon fibre. The exhaust system of the car is finished in matte black colour. The colours of the French flag are present on the wing mirrors, fuel filler cap and on the underside of the rear wing. The brake calipers are finished in blue colour. The interior of the car is upholstered in blue Alcantara and also has the colours of the French flag present on the headrests of the seats, on the back of the seats and on top of the steering wheel. Production was limited to 20 units. On 8 September 2019, Bugatti presented a limited production high performance.</item>
+        <item>The McLaren 720S is a sports car designed and manufactured by British automobile manufacturer McLaren Automotive. It is the second all-new car in the McLaren Super Series, replacing the 650S beginning in May 2017. The 720S was launched at the Geneva Motor Show on 7 March 2017 and is built on a modified carbon monocoque, which is lighter and stiffer than the previous model, the 650S. The 720S is the first all-new car to be introduced by McLaren as a part of its new plan to launch 15 new cars into the market by 2022. The 720S according to McLaren is 91% new as compared to its predecessor. The 720S features McLarens new M840T engine which is an evolution of the M838T used in the 650S It is a 3,994 cc (4.0 L; 243.7 cu in) twin-turbocharged V8 engine. The engine has a rated power output of 720 PS (530 kW; 710 hp) at 7,500 rpm, giving the car its name; the maximum torque is 568 lb ft (770 N m) at 5,500 rpm. The 720S features McLarens new M840T engine which is an evolution of the M838T used in the 650S. It is a 3,994 cc (4.0 L; 243.7 cu in) twin-turbocharged V8 engine. The engine has a rated power output of 720 PS (530 kW; 710 hp) at 7,500 rpm, giving the car its name; the maximum torque is 568 lb ft (770 N m) at 5,500 rpm. The ProActive Chassis Control II active suspension system used in the 720S is an evolution of the system used in the 650S but is 16 kg (35 lb) lighter than the previous version. The new system features accelerometers on the top and pressure sensors at the bottom of the dampers to precisely communicate to the cars onboard computer the driving conditions in real-time for optimum suspension settings. The system uses findings from a PhD course at the University of Cambridge.</item>
+        <item>The Maserati MC20 (MC being the acronym for Maserati Corse 2020, internal code M240) is a two-seater, rear-mid-engine sports car produced by Italian car manufacturer Maserati. The debut of the MC20 was initially scheduled for May 2020,[6] but was rescheduled along with brand redesign for September 2020 in Modena. A racing variant was also announced at the same time. The open top variant of the MC20 called the Cielo (Italian for sky) made its debut in May 2022. The car was developed by the Maserati Innovation Lab with an all-electric option slated to reach production in the future. The new sports car is produced at the Maserati Modena plant that is undergoing necessary modernization. The new cars logo appeared on a Maserati-sponsored Multi 70 trimarans mainsail that was due to race in the RORC Caribbean 600, showing a highly modified Alfa Romeo 4C-based test mule of an upcoming new Maserati sports car. On 1 July 2020, Maserati announced a six-cylinder engine for the MC20 called the Nettuno. The engine was described as a 90-degree, 2,992 cc (3.0 L; 182.6 cu in) V6 with a dry sump, twin-spark and pre-chamber ignition system. It also has twin-turbochargers and fuel injectors. The 220 kg (485 lb) engine can generate a power output of 630 PS (463 kW; 621 hp) at 7,500 rpm and 730 N m (538 lbf ft) of torque from 3,000 to 5,500 rpm. The red-line of the engine is set at 8,000 rpm. The engines use of a passive pre-chamber is a unique quirk. Inspired by Formula 1 and combined with the use of twin-spark ignition, one inside the small cylindrical pre-chamber placed at the center of combustion chamber, and another placed in the traditional combustion chamber, designed to help combustion in low-load scenarios.</item>
+        <item>The Chevrolet Corvette (C8) is the eighth generation of the Corvette sports car manufactured by American automobile manufacturer Chevrolet. It is the first rear mid-engine Corvette since the models introduction in 1953, differing from the traditional front mid-engine design started in 1963. The C8 was announced in April 2019, and the coupe made its official debut on July 18, 2019, in Tustin, California. The convertible made its debut in October 2019 during a media event at the Kennedy Space Center to coincide with the 50th anniversary of the Apollo 11 mission. Production officially began on February 3, 2020, delayed by the 2019 General Motors strike. The racing version, the Chevrolet Corvette C8.R, debuted in July 2019 and won the 2023 FIA World Endurance Championship. Following several experimental CERV prototype vehicles, the C8 is GMs first production rear mid-engine sports car since the Pontiac Fiero was discontinued. The Stingray uses a new version of the LS-based GM small-block engine derived from the C7 Stingrays LT1, now called the LT2. The new naturally aspirated 6.2 L V8 is rated at 490 hp (365 kW; 497 PS) at 6,450 rpm and 465 lb ft (630 N m) of torque at 5,150 rpm, an improvement of 40 hp (30 kW; 41 PS) and 10 lb ft (14 N m) over the outgoing C7 Corvette Stingray. The engine uses dry sump lubrication system. Like the C7, the C8 features Active Fuel Management, or cylinder deactivation, which is used when the car is subjected to low load scenarios such as highway cruising. The engine has two radiators, one on each side in the front. The Z51 package includes a third radiator, a water-to-water and water-to-oil[clarify] radiator on the rear drivers side.</item>
+        <item>The Porsche Carrera GT (Project Code 980) is a mid–engine sports car that was manufactured by German automobile manufacturer Porsche from 2004 to 2006. Sports Car International named the Carrera GT number one on its list of Top Sports Cars of the 2000s, and number eight on its Top Sports Cars of All Time list. For its advanced technology and development of its chassis, Popular Science magazine awarded it the Best of Whats New award in 2003. The development of the Carrera GT can be traced back to the 911 GT1 and LMP1 98 racing cars. Due in part to the FIA and ACO rule changes in 1998, both designs had ended. Porsche at the time had planned a new Le Mans prototype for the 1999 season. The car was initially intended to use a turbocharged flat-six engine, but was later redesigned to use a new V10 engine, pushing the project back to planned completion in 2000. The V10 was a unit secretly built by Porsche. Porsche did keep part of the project alive by using the 5.5 L V10 from the prototype in a concept car called the Carrera GT shown at the 2000 Paris Motor Show, mainly in an attempt to draw attention to their display. Surprising interest in the vehicle and an influx of revenue provided from the Cayenne helped Porsche decide to produce the car, and development started on a road-legal version that would be produced in small numbers at Porsches new manufacturing facility in Leipzig. Porsche started a production run of the Carrera GT in 2004. The first Carrera GT went on sale in the United States on 31 January 2004. Originally a production run of 1,500 cars was planned. However, Porsche announced in August 2005 that it would not continue production of the Carrera GT through to 2006.</item>
+        <item>The fifth-generation Ford Mustang, is a two-door four-seater pony car manufactured and marketed by Ford from 2004 to 2014, for the 2005 to 2014 model years — carrying the internal designation S197 and marketed in coupe and convertible body styles. Assembly took place at the Flat Rock Assembly Plant in Flat Rock, Michigan. The fifth generation began with 2005 model year, and received a facelift for the 2010 model year Originally designed by Sid Ramnarace through late 2001 and finalized in mid-2002, the fifth-generation Mustangs design was previewed by two pre-production concept cars that debuted at the 2003 North American International Auto Show. Development on the S-197 program began in 1999 under chief engineer Hau Thai-Tang, shortly after the 1998 launch of New Edge SN-95 facelift. commenced under Ford design chief J Mays, and concluded in July 2002 with the design freeze. There have been several variants of the fifth-generation. Production start-up for the 2005 Mustang was on September 7, 2004, with the first 2005 model rolling off the Flat Rock assembly line on September 27, 2004. U.S. market launch and customer deliveries began at the end of October 2004, with production ending in late 2008 for the 2009 model. The 2005–2009 base Mustang was powered by Ford s cast-iron block 4.0 L Cologne SOHC V6 engine, replacing the 3.8 L Essex OHV V6 used in 2004 and older models. It produced 210 hp (157 kW) at 5,300 rpm and 240 lb ft (325 N m) of torque at 3,500 rpm and was mated to a standard Tremec T-5 5-speed manual transmission with Fords 5R55S 5-speed automatic transmission available as an option. A 3.31:1 final drive ratio was standard with either transmission.</item>
+        <item>The Koenigsegg Jesko is a limited production mid-engine sports car produced by the Swedish automobile manufacturer Koenigsegg. The car was introduced at the 2019 Geneva Motor Show and was completely sold out before the show ended. Succeeding the Agera, the Jesko is named as a tribute to the company founders father, Jesko von Koenigsegg. There are two variations of the car, the "Absolut" and the Attack. The engine is a development of the 5.1 L (5,065 cc) twin-turbocharged V8 engine used in the Agera. It has four valves per cylinder each with a bore and stroke of 92 mm × 95.25 mm (3.62 by 3.75 inches) and a compression ratio of 8.6:1. The engine has a power output of 1,280 hp (1,298 PS; 954 kW) at 7,800 rpm and 1,000 N m (738 lb ft) of torque at 2,700 to 6,170 rpm on normal petrol and has a power output of 1,600 hp (1,622 PS; 1,193 kW) and 1,500 N⋅m (1,106 lb ft) of torque at 5,100 rpm on E85 biofuel. The car comes standard with forged aluminium centre lock wheels, with diameters of 20 inches at the front and 21 inches at the rear. Lighter carbon fibre wheels are available as an option, weighing 5.9 kg (13 lb) at the front and 7.7 kg (17 lb) at the rear. The tyres are Michelin Pilot Sport Cup 2s with codes of 265/35 20 for the front and 345/30 21 for the rear. Michelin Pilot Sport Cup 2 R tyres dedicated for track driving are also available as an option. The braking system uses ventilated carbon-ceramic discs. The carbon body tub used in the Jesko is 40 mm (2 in) longer and 22 mm (1 in) wider from that of its predecessor in order for more passenger room. The tub has been redesigned and incorporates an aluminium monocoque structure for increased rigidity.</item>
+        <item>The Rimac Nevera an all-electric sports car designed and manufactured by the Croatian automotive manufacturer Rimac Automobili. The first production prototype car was released in August 2021. Nevera production has been limited to 150 vehicles. Having completed crash testing for homologation, Rimac planned to deliver the Nevera to customers in mid-2022. The first production spec Nevera was delivered in August 2022. Deliveries to the United States started in June 2023. The Nevera is manufactured in the same factory and at the same rate (of roughly 1 per week) as the Pininfarina Battista, which is based on the same platform. The Nevera was initially revealed as the C_Two concept car. Since 2018, Rimac spent over three years refining the car as part of an extensive test and development programme. Almost all key components of the Nevera are designed and manufactured at Rimac. In August 2022, 2016 Formula One World Champion Nico Rosberg took delivery of car number 1 of a planned production run of 150. In May 2024, founder and CEO Mate Rimac said more than 50 vehicles had been delivered to customers, indicating that the pace was slower than anticipated. In June 2020, Rimac opened a new facility in Veliko Trgovišće which serves as the assembly for Nevera homologation prototypes as well as production vehicles for customers. At full capacity, it was planned that the facility would produce 4 vehicles per month, including an additional 13 prototype vehicles for homologation testing to destruction and 10 pre-production vehicles, by the end of 2020. YouTuber and automotive influencer, Misha Charoudin, was amongst the first people to test the Rimac Nevera, test driving a prototype on a closed circuit track.</item>
+        <item>The Pininfarina Battista is an electric performance car manufactured by Automobili Pininfarina GmbH which is headquartered in Munich, Germany, with roots in the Italian car design firm and coachbuilder Pininfarina. The name Battista is a tribute to Pininfarinas founder Battista Pininfarina. The car was publicly unveiled at the 2019 Geneva Motor Show. It is the first Pininfarina-branded car and is also featured in the popular racing game Asphalt 9 : Legends while the anniversario edition is featured in asphalt 8 : airborne. The Battista is powered by a 120 kW⋅h battery pack supplied by Rimac Automobili. The car has four individual motors, each placed at a wheel, and they have a combined power output of 1400 kW and 2300 N m of torque. The car has a carbon fibre monocoque chassis with aluminium crash structures at the front and rear. Most of the body panels are also built from the same material resulting in a low mass. Production of the Battista began in 2022, with a limit of 150 units. The units will be equally allocated among prospective buyers from North America, Europe, Asia and Middle East. Each car is hand-built at the dedicated Pininfarina facility located in Cambiano, Italy. 40 percent of the cars production was already reserved before the cars introduction. In June 2019, Automobili Pininfarina unveiled a revised version of the Battista performance car in Turin, Italy. The new design elements come as the model advances through its development programme, towards the simulation, wind tunnel and development drive stages. Changes made to the design include a more aggressive front end and revised wing mirrors having stalks similar to LaFerrari.</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>⭐️⭐️⭐️⭐️️</item>
+        <item>⭐️⭐️⭐️⭐️⭐️️</item>
+        <item>⭐️⭐️⭐️⭐️⭐️</item>
+        <item>⭐️⭐️⭐⭐️️</item>
+        <item>⭐️⭐️⭐️⭐️</item>
+        <item>⭐️⭐️⭐️⭐️️⭐️</item>
+        <item>⭐️⭐️⭐️⭐️️</item>
+        <item>⭐️⭐️⭐️⭐️️</item>
+        <item>⭐️⭐️⭐️⭐️⭐️</item>
+        <item>⭐️⭐️⭐️⭐️</item>
+        <item>⭐️⭐️⭐️⭐️</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/4e/Red_2019_Ferrari_SF90_Stradale_%2848264238897%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/d/d8/Lamborghini_Revuelto_IMG01.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/1/11/2018_Blue_Bugatti_Chiron_at_Grand_Basel_%28Ank_Kumar%29_01.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/2/23/2018_McLaren_720S_V8_S-A_4.0.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/9/97/2022_Maserati_MC20_4.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/8/89/2023_Chevrolet_Corvette_C8_Stingray_Auto.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/7/7a/2023_Cleveland_Auto_Show_%2852976851732%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/9/96/2008_Ford_Mustang_Shelby_GT500_%2816315428072%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/ee/Jesko_Hypercar_-_51174448516.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/b/bb/Rimac_Nevera_%282024%29_%2853621883578%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/c/c8/Pininfarina_Battista_%2846431889375%29.jpg</item>
+    </string-array>
+
+    <string-array name="data_manufacturer">
+        <item>Ferrari</item>
+        <item>Lamborghini</item>
+        <item>Bugatti Automobiles S.A.S</item>
+        <item>McLaren Automotive</item>
+        <item>Maserati</item>
+        <item>Chevrolet (General Motors)</item>
+        <item>Porsche AG</item>
+        <item>Ford</item>
+        <item>Koenigsegg Automotive AB</item>
+        <item>Rimac Automobili</item>
+        <item>Automobili Pininfarina</item>
+    </string-array>
+    <string-array name="data_production">
+        <item>2019–present</item>
+        <item>2023–present</item>
+        <item>2016 – May 2024</item>
+        <item>2017–2023</item>
+        <item>2020–present</item>
+        <item>February 2020–present</item>
+        <item>2004–2006 (1,270 produced)</item>
+        <item>September 2004 – June 2014</item>
+        <item>2021–present</item>
+        <item>2022–present</item>
+        <item>2022–present (150 units planned)</item>
+    </string-array>
+    <string-array name="data_engine">
+        <item>4.0 L (3,990 cc) F154 FA twin-turbocharged V8</item>
+        <item>6.5 L (6,498 cc) L545 naturally aspirated V12</item>
+        <item>8.0 L (488 cu in) quad-turbocharged WR16</item>
+        <item>4.0 L M840T twin-turbocharged V8</item>
+        <item>3.0 L Maserati Nettuno 90° twin-turbocharged V6</item>
+        <item>6.2 L LT2 crossplane OHV V8 (Stingray and E-Ray) 5.5 L LT6 flat-plane DOHC V8 (Z06)</item>
+        <item>5.7 L (5,733 cc) Porsche M80/01 DOHC V10</item>
+        <item>5.4 L (330 CID) Modular supercharged V8</item>
+        <item>5,065 cc (5.1 L; 309 cu in) twin-turbocharged V8</item>
+        <item>Electric motor : 4 liquid-cooled permanent magnet synchronous electric motors placed at each wheel</item>
+        <item>Electric motor : 4 liquid-cooled permanent magnet synchronous electric motors placed at each wheel</item>
+    </string-array>
+    <string-array name="data_assembly">
+        <item>Maranello, Italy</item>
+        <item>Italy: SantAgata Bolognese</item>
+        <item>France: Molsheim (Bugatti Molsheim Plant)</item>
+        <item>Woking, Surrey, England, UK</item>
+        <item>taly: Modena</item>
+        <item>United States: Bowling Green, Kentucky (Bowling Green Assembly Plant)</item>
+        <item>Germany: Leipzig</item>
+        <item>United States: Flat Rock, Michigan (Flat Rock Assembly Plant)</item>
+        <item>Geneva. Geneva International Motor Show</item>
+        <item>Croatia: Sveta Nedelja (Bugatti Rimac Headquarters); Veliko Trgovišće</item>
+        <item>Sveta Nedelja, Croatia (Bugatti Rimac Ltd./Rimac Automobili d.o.o.)[2] and Cambiano, Italy (Pininfarina SpA; hand-crafted; final assembly)</item>
+    </string-array>
+    <string-array name="data_designer">
+        <item>Ferrari Styling Centre under the direction of Flavio Manzoni</item>
+        <item>Mitja Borkert</item>
+        <item>Achim Anscheidt</item>
+        <item>Frank Stephenson, Rob Melville</item>
+        <item>Klaus Busse at Centro Stile Maserati</item>
+        <item>Tom Peters (2015)</item>
+        <item>Jason Hill (concept) Harm Lagaay (production)</item>
+        <item>Sid Ramnarace</item>
+        <item>Christian von Koenigsegg Joachim Nordwall</item>
+        <item>Adriano Mudri (exterior)</item>
+        <item>Luca Borgogno at Pininfarina</item>
+    </string-array>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
