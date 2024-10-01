@@ -1,9 +1,18 @@
-# 📱 Kotlin : Android App ![Beta Deploy](https://github.com/home-assistant/android/workflows/Beta%20Deploy/badge.svg)
+#📱 Kotlin : Android App ![Beta Deploy](https://github.com/home-assistant/android/workflows/Beta%20Deploy/badge.svg)
 
+###Description
 Dicoding submission : Belajar membuat aplikasi android untuk pemula
 
+##Project Overview
+1. Activity
+2. Recycler View
+3. Card View
+4. Detail MainActivity
+5. About Activity
+6. Light and Dark Mode
 
-## Setup App Development Environment
+
+##Setup App Development Environment
 
 1. Download and install [Android Studio](https://developer.android.com/studio)
 
